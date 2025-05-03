@@ -3,7 +3,8 @@
 **`Junior Full Stack Developer`**
 
 Welcome to my profile!
-I'm Carmem Zavattieri, 31 years old — Brazilian by birth, Portuguese at heart.
+I'm Carmem Zavattieri, 31 years old — Brazilian living in Portugal.
+
 I'm a Junior Full Stack Developer with a degree in Civil Engineering.
 Currently, I'm completing the Software Developer course at CESAE DIGITAL.
 The maturity gained from my 10-year career, combined with my growing expertise in programming, gives me the confidence to embrace the challenges ahead.
