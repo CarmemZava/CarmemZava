@@ -132,7 +132,7 @@ The maturity gained from my 10-year career, combined with my growing expertise i
     src="https://github-readme-stats.vercel.app/api?username=CarmemZava&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
-  <img 
+  <img  
     align="left" 
     alt="Top Languages" 
     height="200" 
