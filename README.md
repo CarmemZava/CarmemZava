@@ -12,18 +12,18 @@ The maturity gained from my 10-year career, combined with my growing expertise i
 <p align="left">
     <a href="https://github.com/CarmemZava?tab=repositories&sort=stargazers" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CarmemZava?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
+    alt="Total de estrelas" 
+    title="Total de estrelas no GitHub" 
+    src="https://img.shields.io/badge/Total%20Stars-4-55960c?style=for-the-badge&logo=star&logoColor=white&labelColor=488207"
+/>
     </a>
     <a href="https://github.com/CarmemZava?tab=followers" target="_blank">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CarmemZava?color=FFD700&labelColor=FFC300&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/CarmemZava?color=FFD700&label=Followers&style=for-the-badge&logo=github&labelColor=FFC300"
+    />
+</a>
     <a href="mailto:carmemzavattieri@hotmail.com" target="_blank">
         <img 
             alt="Email" 
@@ -60,6 +60,14 @@ The maturity gained from my 10-year career, combined with my growing expertise i
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
@@ -103,6 +111,14 @@ The maturity gained from my 10-year career, combined with my growing expertise i
 />
 <img 
     align="left" 
+    alt="C#" 
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
     alt="mysql" 
     title="mysql"
     width="30px" 
@@ -116,6 +132,14 @@ The maturity gained from my 10-year career, combined with my growing expertise i
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"        
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <br/>
