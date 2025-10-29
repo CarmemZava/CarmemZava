@@ -1,6 +1,13 @@
-# 💻✨ Carmem Zavattieri
 
-**`Full Stack Developer`**  
+<h1 align="center">💻✨ Carmem Zavattieri</h1>
+
+<p align="center">
+  Full Stack Developer
+</p>
+<
+
+
+
 
 Hi! I'm Carmem Zavattieri — Brazilian living in Portugal.  
 Junior Full Stack Developer with a Civil Engineering background and 10 years of professional experience.
@@ -10,7 +17,7 @@ Junior Full Stack Developer with a Civil Engineering background and 10 years of 
 - Build and maintain applications with AngularJS, Angular, TypeScript, and JavaScript.  
 - Key Project: Smart Home User Management System – full-stack upgrade with modern interface, back-end improvements, RESTful APIs, and WebSocket for real-time device communication.
   
-
+<br>
 <p align="left">
     <a href="https://github.com/CarmemZava?tab=repositories&sort=stargazers" target="_blank">
         <img 
@@ -41,7 +48,6 @@ Junior Full Stack Developer with a Civil Engineering background and 10 years of 
         />
     </a> 
 </p>
-
 
 ---
 
@@ -74,9 +80,6 @@ Junior Full Stack Developer with a Civil Engineering background and 10 years of 
 <!-- DATABASE -->
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <br><br>
-
-<br/>
-<br/>
 
 ### 📊 Statistics
 
