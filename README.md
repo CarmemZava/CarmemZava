@@ -4,10 +4,6 @@
 <p align="center">
   Full Stack Developer
 </p>
-<
-
-
-
 
 Hi! I'm Carmem Zavattieri — Brazilian living in Portugal.  
 Junior Full Stack Developer with a Civil Engineering background and 10 years of professional experience.
@@ -18,20 +14,6 @@ Junior Full Stack Developer with a Civil Engineering background and 10 years of 
 - Key Project: Smart Home User Management System – full-stack upgrade with modern interface, back-end improvements, RESTful APIs, and WebSocket for real-time device communication.
   
 <br>
-<p align="left">
-    <a href="https://github.com/CarmemZava?tab=repositories&sort=stargazers" target="_blank">
-        <img 
-    alt="Total de estrelas" 
-    title="Total de estrelas no GitHub" 
-    src="https://img.shields.io/badge/Total%20Stars-4-55960c?style=for-the-badge&logo=star&logoColor=white&labelColor=488207"
-/>
-    </a>
-    <a href="https://github.com/CarmemZava?tab=followers" target="_blank">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://img.shields.io/github/followers/CarmemZava?color=FFD700&label=Followers&style=for-the-badge&logo=github&labelColor=FFC300"
-    />
 </a>
     <a href="mailto:carmemzavattieri@hotmail.com" target="_blank">
         <img 
@@ -47,7 +29,8 @@ Junior Full Stack Developer with a Civil Engineering background and 10 years of 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"
         />
     </a> 
-</p>
+
+    
 
 ---
 
