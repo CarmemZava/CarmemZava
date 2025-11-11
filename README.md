@@ -5,8 +5,7 @@
   Full Stack Developer
 </p>
 
-Hi! I'm Carmem Zavattieri — Brazilian living in Portugal.  
-Junior Full Stack Developer with a Civil Engineering background and 10 years of professional experience.
+Hi! I'm a Junior Full Stack Developer with a Civil Engineering background and 10 years of professional experience.
 
 **Current Role:**  
 **Full Stack Developer | Atouch - Grupo Bernardo da Costa | Braga, Portugal | 2025 - Present**  
@@ -29,9 +28,6 @@ Junior Full Stack Developer with a Civil Engineering background and 10 years of 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"
         />
     </a> 
-
-
-    
 
 ---
 
@@ -79,7 +75,7 @@ Junior Full Stack Developer with a Civil Engineering background and 10 years of 
   align="left" 
   alt="Top Languages" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarmemZava&theme=tokyonight&layout=compact&custom_title=Top%20Languages%20%26%20Tools&langs_count=9&cache_seconds=3600" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarmemZava&theme=tokyonight&layout=compact&custom_title=Top%20Languages%20%26%20Tools&langs_count=9&cache_seconds=1800" 
 />
 </p>
 
